@@ -1,0 +1,5 @@
+This is a text-based vehicle simulator. You can create a new vehicle with your own specificications or use one of the existing within the program. 
+You may choose from a car, a truck, or a motorbike, each of which you can create, or choose an existing one. 
+The vehicles can be driven through text based actions which you are prompted to select on-screen. 
+Some of the vehicles have unique actions they can perform, for example the truck can tow if it's capacity allows, and the motorbike can wheelie!
+This program was written using typescript JS. 
