@@ -5,5 +5,5 @@ Some of the vehicles have unique actions they can perform, for example the truck
 This program was written using typescript JS with the assistance of my Instructor and a tutor. ChatGPT was also used to aid in debugging.
 Code can be found in the .src/classes directory
 
-Walk through video hosted on Google drive, please copy and paste link into your web browsers address line
-https://drive.google.com/file/d/1ij8GUzuTsn28ZHauxHKx0LY2BW6Vib2q/view?usp=sharing
+[Walk through video hosted on Google drive](https://drive.google.com/file/d/1ij8GUzuTsn28ZHauxHKx0LY2BW6Vib2q/view?usp=sharing)
+
